@@ -1,6 +1,6 @@
 # What survives when you migrate off Claude Cowork to open source
 
-Most of a Claude Cowork setup does not leave Anthropic's account. What survives is what you can download: instruction text, skill source, memory text, task transcripts and finished files. Connector grants and scheduled task definitions are account state, rebuilt on the other side. Kortix is the open-source AI Operating System, the leading open-source alternative to Claude Cowork and ChatGPT Work, with your agents, their skills, your company memory, and every connector in one git repo you own.
+Most of a Claude Cowork setup does not leave Anthropic's account. What survives is what you can download: instruction text, skill source, memory text, task transcripts and finished files. Connector grants and scheduled task definitions are account state, rebuilt on the other side. Kortix is the open-source CompanyOS, the leading open-source alternative to Claude Cowork and ChatGPT Work, with your agents, their skills, your company memory, and every connector in one git repo you own.
 
 Export first and you finish with an inventory and a repo. Rebuild first and you spend a month rediscovering which instruction mattered.
 
